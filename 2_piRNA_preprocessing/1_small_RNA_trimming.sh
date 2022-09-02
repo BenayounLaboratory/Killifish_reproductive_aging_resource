@@ -1,6 +1,6 @@
 #small_RNA_trimming.sh
 
-# this script performs small RNA trimming with trim_galore v0.6.6 to remove specific adapters and low quality reads
+# this script performs small RNA trimming with trim_galore v0.6.7 to remove specific adapters and low quality reads
 # discard reads that become shorter than 18bp
 # each file is trimmed twice. once for the forward and reverse adapters
 
