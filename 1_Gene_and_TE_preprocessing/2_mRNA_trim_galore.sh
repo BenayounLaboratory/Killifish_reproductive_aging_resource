@@ -1,6 +1,6 @@
 #trim_galore_mRNA.sh
 
-#this script uses trim_galore v0.6.6 to
+#this script uses trim_galore v0.6.7 to
 #remove any remaining adapters and low quality reads
 
 for f in $(find "." -name '*1_HT.fq.gz')
